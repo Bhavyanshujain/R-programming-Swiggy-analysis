@@ -1,1 +1,2 @@
 # R-programming-Swiggy-analysis
+The Swiggy Sales Trends PPT presents an exploratory data analysis of Swiggy's dataset, focusing on delivery time, ratings, sales, and pricing. It identifies key insights such as the best-rated areas, average delivery times by city, most common food types, and pricing variations. The analysis explores relationships between variables like price and delivery time, reviews and ratings, and city-wise restaurant distribution. The findings help optimize business strategies, improve customer experience, and refine operational efficiencies for Swiggy.
